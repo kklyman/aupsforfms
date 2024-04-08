@@ -3,15 +3,15 @@
 
 Below is a brief writeup of the methodology for tagging acceptable use policies. This will be further detailed in a forthcoming paper.
 
-##### Disclaimer
+#### Disclaimer
 As stated in the [post](https://crfm.stanford.edu/2024/04/08/aups.html), this work is a preliminary analysis of companies’ acceptable use policies. It does not include every item from every company’s acceptable use policy, as the intention is to provide a useful aggregation of commonalities between company policies. This data ~should not~ be read to state that a company does not have rules relating to any one of these particular uses, just that its acceptable use policy as defined in the post does not explicitly prohibit that use per these tagging criteria. Please refer to the post (in particular its footnotes) for details on further caveats, including that (i) companies have broad prohibitions on various kinds of content, meaning that it is difficult to draw conclusions solely on the basis that a company does not include a certain prohibition verbatim and (ii) companies have many policies that contain use restrictions besides the acceptable use policies for their foundation models.
 
-##### Process for identifying acceptable use policies
+#### Process for identifying acceptable use policies
 1. Compile a list of foundation model developers from Stanford Center for Research on Foundation Models’ [Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table).
 2. For each foundation model developer, check the developer’s terms of service on its website. If the terms of service includes an acceptable use policy with content restrictions that plausibly cover its foundation models, use this portion of the TOS as the acceptable use policy.[^1]
 3. For each remaining foundation model developer, check the license for its [“flagship foundation model.”](https://arxiv.org/abs/2310.12941) If the license includes use restrictions or a reference to a version of the company’s acceptable use policy, use that portion of the license or the external document as the acceptable use policy.
 
-##### Process for tagging acceptable use policies
+#### Process for tagging acceptable use policies
 
 * In the first round of tagging, for each line item in each acceptable use policy:
   * Tag each distinct prohibited use category 
@@ -28,7 +28,7 @@ As stated in the [post](https://crfm.stanford.edu/2024/04/08/aups.html), this wo
   * Child abuse includes child sexual exploitation
   * Political includes political manipulation
 
-##### Categorizations for Figures 3-6
+#### Categorizations for Figures 3-6
 
 For Figure 3, the categories of violative use include the following line items:
 1. Mis/disinformation, Misleading info: misinformation, false harmful info, misleading, disinformation
