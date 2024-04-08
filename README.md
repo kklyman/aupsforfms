@@ -1,6 +1,6 @@
 # Acceptable Use Policies for Foundation Models
 
-This repository provides all the data associated with the post titled [Acceptable Use Policies for Foundation Models](https://crfm.stanford.edu/2024/04/08/aups.html). This includes:
+This repository provides all the data associated with the post on [Acceptable Use Policies for Foundation Models](https://crfm.stanford.edu/2024/04/08/aups.html). This includes:
 
 **1.** **Labeled Acceptable Use Policies for Foundation Models.** Acceptable use policies from 30 different foundation model developers are labeled in aups.csv. A total 128 prohibited categories of use are tagged, though this is nonexhaustive. 
 
