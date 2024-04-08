@@ -6,7 +6,7 @@ This repository provides all the data associated with the post titled [Acceptabl
 
 **2.** **Brief Writeup of Tagging Methodology.** A description of the methodology for data collection and tagging. This will be further detailed in a forthcoming paper. 
 
-**3.** **Visuals.** All visuals generated on the basis of these labels are provided. All data and visuals are licensed under [CC-BY](https://creativecommons.org/share-your-work/cclicenses/) and may be re-used for any purpose with attribution. Please link to the post if re-using this data, and please use the citation below if citing the work in a paper.
+**3.** **Visuals.** All visuals from this work are made available. All data and visuals are licensed under [CC-BY](https://creativecommons.org/share-your-work/cclicenses/) and may be re-used for any purpose with attribution. Please link to the post if re-using this data, and please use the citation below if citing the work in a paper.
 
 ## Cite as
 ```tex
