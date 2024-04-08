@@ -2,11 +2,11 @@
 
 This repository provides all the data associated with the post titled [Acceptable Use Policies for Foundation Models](https://crfm.stanford.edu/2024/04/08/aups.html). This includes:
 
-**1** **Labeled Acceptable Use Policies for Foundation Models.** Acceptable use policies from 30 different foundation model developers are labeled in aups.csv. A total 128 prohibited categories of use are tagged, though this is nonexhaustive. 
+**1.** **Labeled Acceptable Use Policies for Foundation Models.** Acceptable use policies from 30 different foundation model developers are labeled in aups.csv. A total 128 prohibited categories of use are tagged, though this is nonexhaustive. 
 
-**2** **Brief Writeup of Methodology.** A description of the methodology for data collection. This will be further detailed in a future paper. 
+**2.** **Brief Writeup of Methodology.** A description of the methodology for data collection. This will be further detailed in a future paper. 
 
-**3** **Visuals.** All visuals generated on the basis of these labels are provided. All data and visuals are licensed under [CC-BY](https://creativecommons.org/share-your-work/cclicenses/) and may be re-used for any purpose with attribution. Please link to the post if re-using this data, and please use the citation below if citing the work in a paper.
+**3.** **Visuals.** All visuals generated on the basis of these labels are provided. All data and visuals are licensed under [CC-BY](https://creativecommons.org/share-your-work/cclicenses/) and may be re-used for any purpose with attribution. Please link to the post if re-using this data, and please use the citation below if citing the work in a paper.
 
 ## Cite as
 ```tex
