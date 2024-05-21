@@ -14,7 +14,7 @@ This repository provides all the data associated with the post on [Acceptable Us
     author = {Kevin Klyman}, 
     title  = {Acceptable Use Policies for Foundation Models: Considerations for Policymakers and Developers},
     howpublished = {Stanford Center for Research on Foundation Models},
-    month = april,
+    month = apr,
     year   = 2024,
     url    = {https://crfm.stanford.edu/2024/04/08/aups.html}
 }
